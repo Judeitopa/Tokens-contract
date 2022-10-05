@@ -1,0 +1,21 @@
+{
+  "name": "token20",
+  "version": "1.0.0",
+  "description": "This helps in creating a package.json file and saving dependecies",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "none",
+    "yet"
+  ],
+  "author": "Judeitopa",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
